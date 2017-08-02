@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GameEye2D/Examples/Scenes/Behaviors/Zoom To Fit - Press Mouse 1.unity
+  isLoaded: 1
+  isActive: 1
