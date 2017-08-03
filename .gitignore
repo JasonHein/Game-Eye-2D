@@ -1,0 +1,12 @@
+#################
+## Visual Studio
+#################
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+
+
+
