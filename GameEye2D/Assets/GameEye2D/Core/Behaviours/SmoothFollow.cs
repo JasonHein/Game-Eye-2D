@@ -122,10 +122,10 @@ namespace GameEye2D.Behaviour
 				}
 
 				//Get the threshold rect's corner positions
-				Vector3 topLeft = new Vector3(transform.position.x - m_StillThreshold.x, transform.position.y, transform.position.z + m_StillThreshold.y);
-				Vector3 botLeft = new Vector3(transform.position.x - m_StillThreshold.x, transform.position.y, transform.position.z - m_StillThreshold.y);
-				Vector3 topRight = new Vector3(transform.position.x + m_StillThreshold.x, transform.position.y, transform.position.z + m_StillThreshold.y);
-				Vector3 botRight = new Vector3(transform.position.x + m_StillThreshold.x, transform.position.y, transform.position.z - m_StillThreshold.y);
+				Vector3 topLeft = new Vector3(transform.position.x - m_ViewChangedThreshold.x, transform.position.y, transform.position.z + m_ViewChangedThreshold.y);
+				Vector3 botLeft = new Vector3(transform.position.x - m_ViewChangedThreshold.x, transform.position.y, transform.position.z - m_ViewChangedThreshold.y);
+				Vector3 topRight = new Vector3(transform.position.x + m_ViewChangedThreshold.x, transform.position.y, transform.position.z + m_ViewChangedThreshold.y);
+				Vector3 botRight = new Vector3(transform.position.x + m_ViewChangedThreshold.x, transform.position.y, transform.position.z - m_ViewChangedThreshold.y);
 				
 #else
 

@@ -6,7 +6,10 @@
 *.suo
 *.user
 *.sln.docstates
+*.csproj
 
 
-
-
+GameEye2D/GameEye2D.sln
+GameEye2D/Temp
+GameEye2D/Library
+GameEye2D/ProjectSettings
