@@ -48,3 +48,8 @@ Follow me on Twitter
 ----------------------
 
 https://twitter.com/JasonDavidHein
+
+
+Donate
+----------------------
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=EUH8YAN7PR4SQ)
