@@ -3,7 +3,7 @@ A component based orthographic camera extension for unity that tracks 2D environ
 
 Tutorial https://www.youtube.com/watch?v=p8C13371-kQ&amp;list=PLTjnluiSpC8Sjt0VD62pDW6bkUJ1NTSDM
 
-If you want to see them in action. I'm currently using them to build my game Spectrum Break. https://spectrumbreak.com/
+If you want to see them in action. I'm using them in my game Spectrum Break. https://spectrumbreak.com/
 
 
 Supported Games
