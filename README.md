@@ -44,12 +44,7 @@ Tools
 Parralax, Clamp objects to a camera view, Triggers to change camera values.
 
 
-Follow me on Twitter
+Follow me on Bluesky
 ----------------------
 
-https://twitter.com/JasonDavidHein
-
-
-Donate
-----------------------
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=EUH8YAN7PR4SQ)
+[https://twitter.com/JasonDavidHein](https://bsky.app/profile/jasonhein.bsky.social)
